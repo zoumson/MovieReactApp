@@ -1,0 +1,22 @@
+.noDecor {
+  text-decoration: none;
+}
+.dialog-action-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  /*background: red; */
+}
+/*
+.agree {
+  background: green;
+  width: 100%;
+  margin: 0;
+}
+.disagree {
+  background: red;
+  width: 100%;
+  margin: 0;
+}
+*/
